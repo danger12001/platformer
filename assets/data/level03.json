@@ -1,0 +1,22 @@
+{
+    "platforms": [
+      {"image": "ground", "x": 0, "y": 546},
+      {"image": "grass:8x1", "x": 300, "y": 100}
+
+
+
+    ],
+    "decoration": [
+
+    ],
+    "coins": [
+      {"x": 50, "y": 124, "collected": false, "id": 0}
+
+    ],
+    "hero": {"x": 470, "y": 50},
+    "spiders": [
+{"x": 121, "y": 199, "killed": false, "id": 0}, {"x": 700, "y": 200, "killed": false, "id": 1}
+    ],
+    "door": {"x": 50, "y": 546},
+    "key": {"x": 900, "y": 524}
+}

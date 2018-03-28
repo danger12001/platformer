@@ -9,17 +9,17 @@
 
     ],
     "decoration": [
-      
+
     ],
     "coins": [
-      {"x": 900, "y": 524},{"x": 860, "y": 524},{"x": 820, "y": 524},{"x": 780, "y": 524},{"x": 740, "y": 524},
-      {"x": 20, "y": 200},{"x": 60, "y": 200},{"x": 100, "y": 200},{"x": 140, "y": 200},
-      {"x": 520, "y": 200},{"x": 550, "y": 230},{"x": 580, "y": 260},{"x": 600, "y": 300}
+      {"x": 900, "y": 524, "collected": false, "id": 0},{"x": 860, "y": 524, "collected": false, "id": 1},{"x": 820, "y": 524, "collected": false, "id": 2},{"x": 780, "y": 524, "collected": false, "id": 3},{"x": 740, "y": 524, "collected": false, "id": 4},
+      {"x": 20, "y": 200, "collected": false, "id": 5},{"x": 60, "y": 200, "collected": false, "id": 6},{"x": 100, "y": 200, "collected": false, "id": 7},{"x": 140, "y": 200, "collected": false, "id": 8},
+      {"x": 520, "y": 200, "collected": false, "id": 9},{"x": 550, "y": 230, "collected": false, "id": 10},{"x": 580, "y": 260, "collected": false, "id": 11},{"x": 600, "y": 300, "collected": false, "id": 12}
 
     ],
     "hero": {"x": 21, "y": 525},
     "spiders": [
-{"x": 121, "y": 199}, {"x": 800, "y": 500}, {"x": 500, "y": 80},{"x": 0, "y": 380},{"x": 700, "y": 200}
+{"x": 121, "y": 199, "killed": false, "id": 0}, {"x": 800, "y": 500, "killed": false, "id": 1}, {"x": 500, "y": 80, "killed": false, "id": 2},{"x": 0, "y": 380, "killed": false, "id": 3},{"x": 700, "y": 200, "killed": false, "id": 4}
     ],
     "door": {"x": 470, "y": 100},
     "key": {"x": 470, "y": 160}

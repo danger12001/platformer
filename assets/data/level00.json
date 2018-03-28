@@ -13,13 +13,11 @@
         {"frame": 4, "x": 462, "y": 378}
     ],
     "coins": [
-        {"x": 147, "y": 525}, {"x": 189, "y": 525},
-        {"x": 399, "y": 399}, {"x": 357, "y": 420}, {"x": 336, "y": 462},
-        {"x": 819, "y": 525}, {"x": 861, "y": 525}, {"x": 903, "y": 525}
+        {"x": 147, "y": 525, "collected": false, "id": 0}, {"x": 189, "y": 525, "collected": false, "id": 1},
+        {"x": 399, "y": 399, "collected": false, "id": 2}, {"x": 357, "y": 420, "collected": false, "id": 3}, {"x": 336, "y": 462, "collected": false, "id": 4},
+        {"x": 819, "y": 525, "collected": false, "id": 5}, {"x": 861, "y": 525, "collected": false, "id": 6}, {"x": 903, "y": 525, "collected": false, "id": 7}
     ],
     "hero": {"x": 21, "y": 525},
     "spiders": [
-    ],
-    "door": {"x": 231, "y": 546},
-    "key": {"x": 525, "y": 336}
+    ]
 }

@@ -18,16 +18,14 @@
         {"frame": 1, "x": 515, "y": 126}, {"frame": 3, "x": 525, "y": 126}
     ],
     "coins": [
-        {"x": 231, "y": 524}, {"x": 273, "y": 524}, {"x": 315, "y": 524}, {"x": 357, "y": 524},
-        {"x": 819, "y": 524}, {"x": 861, "y": 524}, {"x": 903, "y": 524}, {"x": 945, "y": 524},
-        {"x": 399, "y": 294}, {"x": 357, "y": 315}, {"x": 336, "y": 357},
-        {"x": 777, "y": 357}, {"x": 819, "y": 357}, {"x": 861, "y": 357}, {"x": 903, "y": 357}, {"x": 945, "y": 357},
-        {"x": 189, "y": 231}, {"x": 231, "y": 231},
-        {"x": 525, "y": 147}, {"x": 567, "y": 147}, {"x": 609, "y": 147}, {"x": 651, "y": 147},
-        {"x": 819, "y": 63}, {"x": 861, "y": 63}
+        {"x": 231, "y": 524, "collected": false, "id": 0}, {"x": 273, "y": 524, "collected": false, "id": 1}, {"x": 315, "y": 524, "collected": false, "id": 2}, {"x": 357, "y": 524, "collected": false, "id": 3},
+        {"x": 819, "y": 524, "collected": false, "id": 4}, {"x": 861, "y": 524, "collected": false, "id": 5}, {"x": 903, "y": 524, "collected": false, "id": 6}, {"x": 945, "y": 524, "collected": false, "id": 7},
+        {"x": 399, "y": 294, "collected": false, "id": 8}, {"x": 357, "y": 315, "collected": false, "id": 9}, {"x": 336, "y": 357, "collected": false, "id": 10},
+        {"x": 777, "y": 357, "collected": false, "id": 11}, {"x": 819, "y": 357, "collected": false, "id": 12}, {"x": 861, "y": 357, "collected": false, "id": 13}, {"x": 903, "y": 357, "collected": false, "id": 15}, {"x": 945, "y": 357, "collected": false, "id": 16},
+        {"x": 189, "y": 231, "collected": false, "id": 17}, {"x": 231, "y": 231, "collected": false, "id": 18},
+        {"x": 525, "y": 147, "collected": false, "id": 19}, {"x": 567, "y": 147, "collected": false, "id": 20}, {"x": 609, "y": 147, "collected": false, "id": 21}, {"x": 651, "y": 147, "collected": false, "id": 22},
+        {"x": 819, "y": 63, "collected": false, "id": 23}, {"x": 861, "y": 63, "collected": false, "id": 24}
     ],
     "hero": {"x": 21, "y": 525},
-    "spiders": [{"x": 121, "y": 399}, {"x": 800, "y": 362}, {"x": 500, "y": 147}],
-    "door": {"x": 169, "y": 546},
-    "key": {"x": 903, "y": 105}
+    "spiders": [{"x": 121, "y": 399, "killed": false, "id": 0}, {"x": 800, "y": 362, "killed": false, "id": 1}, {"x": 500, "y": 147, "killed": false, "id": 2}]
 }
